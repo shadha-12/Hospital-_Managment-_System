@@ -3,3 +3,5 @@ read appointement details
 set appointement 
 track patient history
 create bill
+read claim
+calculate the amount
